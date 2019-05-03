@@ -1,2 +1,3 @@
-body
-{ backround color; red}
+body {
+  backround-color: #ff00ff;
+}
